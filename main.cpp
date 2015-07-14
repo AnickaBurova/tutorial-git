@@ -1,3 +1,4 @@
+#include "stdafx"
 #include <iostream>
 #include "msg.h"
 
